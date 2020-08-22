@@ -1,5 +1,7 @@
 # Dr.-Semmelweis-and-the-discovery-of-handwashing
-Mini Project of Technocolab
+
+# Mini Project of Technocolab
+
 ## Mini Project 1- Dr. Semmelweis and the Discovery of Handwashing 
 
 # Project Description
