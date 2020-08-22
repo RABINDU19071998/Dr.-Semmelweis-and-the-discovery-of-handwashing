@@ -1,6 +1,4 @@
-# Dr.-Semmelweis-and-the-discovery-of-handwashing
-
-## Mini Project 1- Dr. Semmelweis and the Discovery of Handwashing 
+# Mini Project 1- Dr. Semmelweis and the Discovery of Handwashing 
 
 # Project Description
 
