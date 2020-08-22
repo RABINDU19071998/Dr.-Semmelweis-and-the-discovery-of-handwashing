@@ -11,12 +11,12 @@ In this python project we will reanalyze the medical data Semmelweis collected. 
 
 ## Project Tasks
 
-Meet Dr. Ignaz Semmelweis
-The alarming number of deaths
-Death at the clinics
-The handwashing begins
-The effect of handwashing
-The effect of handwashing highlighted
-More handwashing, fewer deaths?
-A Bootstrap analysis of Semmelweis hand washing data
+Meet Dr. Ignaz Semmelweis,
+The alarming number of deaths,
+Death at the clinics,
+The handwashing begins,
+The effect of handwashing,
+The effect of handwashing highlighted,
+More handwashing, fewer deaths?,
+A Bootstrap analysis of Semmelweis hand washing data,
 The fate of Dr. Semmelweis
